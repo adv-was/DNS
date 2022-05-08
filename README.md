@@ -6,7 +6,7 @@ This python file includes :
 - Introduction, origin, and basic infos.
 
 
-### Installation
+## Installation
 
 ```bash
 $ git clone https://github.com/advwastaken/DNS
@@ -17,3 +17,6 @@ $ pip install -r requirements.txt
 
 $ cp DNS.py <Your directory path>
 ```
+### Usage
+
+Simply put the `DNS.py` in your project directory.
