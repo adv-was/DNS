@@ -33,3 +33,6 @@ Simply put the `DNS.py` in your project directory and import the `DeNobiliKoradi
 ```python
 from DNS import DeNobiliKoradih as dns
 ```
+
+### Methods
+
