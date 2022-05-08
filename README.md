@@ -57,6 +57,11 @@ Different Variables provided :
 
 ### Methods
 
+Example Format :
+```python
+print(DeNobiliKoradih.getTeachersWith('A')
+```
+
 | Method               | function                                               |
 |----------------------|--------------------------------------------------------|
 | getTeachersWith(ctx) | returns all the teachers with a `specified` beggining (ctx). |
