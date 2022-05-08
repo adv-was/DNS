@@ -18,11 +18,11 @@ This python file includes :
 ### Installation
 
 ```bash
-git clone https://github.com/advwastaken/DNS
+$ git clone https://github.com/advwastaken/DNS
 
-cd DNS
+$ cd DNS
 
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 
-cp DNS.py <Your directory path>
+$ cp DNS.py <Your directory path>
 ```
