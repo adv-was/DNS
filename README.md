@@ -24,7 +24,7 @@ $ cd DNS
 
 $ pip install -r requirements.txt
 
-$ cp DNS.py <Your directory path>
+$ cp src/DNS.py <Your directory path>
 ```
 ### Usage
 
