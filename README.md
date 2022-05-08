@@ -31,7 +31,7 @@ $ cp DNS.py <Your directory path>
 Simply put the `DNS.py` in your project directory and import the `DeNobiliKoradih` class.
 
 ```python
-from DNS import DeNobiliKoradih as dns
+from DNS import DeNobiliKoradih
 ```
 
 ### Variables
