@@ -34,9 +34,10 @@ Simply put the `DNS.py` in your project directory and import the `DeNobiliKoradi
 from DNS import DeNobiliKoradih as dns
 ```
 
-### Methods
+### Variables
 
-| Method  | function           |
-|------------|-----------------------------------------|
-| dns.origin | returns about the origin of the school. |
-| dns.motton | returns the school's motto.             |
+Format : `<objectname>.<variablename>`
+Example :
+```python
+print(DeNobiliKoradih.intro)
+```
