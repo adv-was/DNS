@@ -11,5 +11,21 @@ This python file includes :
 - School Type
 - Principals
 - Board
-- website
+- Website
 - Teachers (as per 2018-19)
+
+
+### Installation
+
+```bash
+git clone https://github.com/advwastaken/DNS
+```
+```bash
+cd DNS
+```
+```bash
+pip install -r requirements.txt
+```
+```bash
+cp DNS.py <Your directory path>
+```
