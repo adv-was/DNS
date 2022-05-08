@@ -1,4 +1,4 @@
-[![DNS Website](https://upload.wikimedia.org/wikipedia/en/c/cd/Identity_badge_of_De_Nobili_School%2C_India.png)](https://dnssijua.com)
+[![Website](https://upload.wikimedia.org/wikipedia/en/c/cd/Identity_badge_of_De_Nobili_School%2C_India.png)](https://dnssijua.com)
 
 # De Nobili School, Koradih
 
