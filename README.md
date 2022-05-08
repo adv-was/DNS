@@ -36,6 +36,7 @@ from DNS import DeNobiliKoradih as dns
 
 ### Methods
 
-| dns.intro  | returns some introduction.              |
+| Method  | function           |
+|------------|-----------------------------------------|
 | dns.origin | returns about the origin of the school. |
 | dns.motton | returns the school's motto.             |
