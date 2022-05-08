@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://dnssijua.com">
+<a href="http://dnssijua.com">
 <img src="http://dnssijua.com/images/logo-1.png">
 </a>
 </p>
