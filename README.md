@@ -17,7 +17,7 @@ This python file includes :
 
 ## Installation
 
-> *Make sure you have python installed.*
+> **Make sure you have python installed.**
 
 ```bash
 $ git clone https://github.com/advwastaken/DNS
