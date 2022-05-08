@@ -41,3 +41,17 @@ Example :
 ```python
 print(DeNobiliKoradih.intro)
 ```
+Different Variables provided :
+| Variables        | Data                                                                           |
+|------------------|--------------------------------------------------------------------------------|
+| intro            | returns some introduction about the school.                                    |
+| origin           | returns some information of origin of the school.                              |
+| motto            | returns the motto of the school.                                               |
+| logo             | returns some information about the school's logo.                              |
+| type             | returns the school's types.                                                    |
+| website          | returns the school's website.                                                  |
+| currentPrincipal | returns the name of the current principal.                                     |
+| principals       | returns the names of the all principals since the establishment of the school. |
+| board            | returns the school's board (ICSE/CBSE).                                        |
+| schoolSong       | returns the school song.                                                       |
+| teachers         | returns the name of all the teachers as a list.                                |
