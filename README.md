@@ -12,6 +12,9 @@ This python file includes :
 - Introduction, origin, and basic infos.
 
 
+> Note : The teachers list is as of 2018-19.
+
+
 ## Installation
 
 ```bash
