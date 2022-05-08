@@ -50,7 +50,7 @@ Different Variables provided :
 | type             | returns the school's types.                                                    |
 | website          | returns the school's website.                                                  |
 | currentPrincipal | returns the name of the current principal.                                     |
-| principals       | returns the names of the all principals since the establishment of the school. |
+| principals       | returns the names of all the principals since the establishment of the school. |
 | board            | returns the school's board (ICSE/CBSE).                                        |
 | schoolSong       | returns the school song.                                                       |
 | teachers         | returns the name of all the teachers as a list.                                |
