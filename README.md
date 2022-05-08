@@ -43,7 +43,7 @@ Example Format :
 print(DeNobiliKoradih.intro)
 ```
 Different Variables provided :
-| Variables        | Data                                                                                     |
+| Variable         | Data                                                                                     |
 |------------------|------------------------------------------------------------------------------------------|
 | intro            | returns some introduction about the school.                                              |
 | origin           | returns some information of origin of the school.                                        |
