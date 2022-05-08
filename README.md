@@ -59,4 +59,4 @@ Different Variables provided :
 
 | Method               | function                                               |
 |----------------------|--------------------------------------------------------|
-| getTeachersWith(ctx) | returns all the teachers with a `specified` beggining. |
+| getTeachersWith(ctx) | returns all the teachers with a `specified` beggining (ctx). |
