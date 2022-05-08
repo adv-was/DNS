@@ -59,7 +59,7 @@ Different Variables provided :
 
 Example Format :
 ```python
-print(DeNobiliKoradih.getTeachersWith('A')
+print(DeNobiliKoradih.getTeachersWith('A'))
 ```
 
 | Method               | function                                               |
