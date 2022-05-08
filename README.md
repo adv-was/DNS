@@ -4,4 +4,12 @@ De Nobili School, Koradih is a private Catholic primary and secondary school loc
 This python file includes :
 
 - Introduction
-- Principal
+- Origin
+- Motto
+- Logo
+- School Song
+- School Type
+- Principals
+- Board
+- website
+- Teachers (as per 2018-19)
