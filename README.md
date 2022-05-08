@@ -36,8 +36,7 @@ from DNS import DeNobiliKoradih
 
 ### Variables
 
-Format : `<objectname>.<variablename>`
-Example :
+Example Format :
 ```python
 print(DeNobiliKoradih.intro)
 ```
@@ -55,3 +54,9 @@ Different Variables provided :
 | board            | returns the school's board (ICSE/CBSE).                                        |
 | schoolSong       | returns the school song.                                                       |
 | teachers         | returns the name of all the teachers as a list.                                |
+
+### Methods
+
+| Method               | function                                               |
+|----------------------|--------------------------------------------------------|
+| getTeachersWith(ctx) | returns all the teachers with a `specified` beggining. |
