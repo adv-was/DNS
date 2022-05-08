@@ -19,13 +19,10 @@ This python file includes :
 
 ```bash
 git clone https://github.com/advwastaken/DNS
-```
-```bash
+
 cd DNS
-```
-```bash
+
 pip install -r requirements.txt
-```
-```bash
+
 cp DNS.py <Your directory path>
 ```
