@@ -28,4 +28,8 @@ $ cp DNS.py <Your directory path>
 ```
 ### Usage
 
-Simply put the `DNS.py` in your project directory and import the `DeNobiliSijua` class
+Simply put the `DNS.py` in your project directory and import the `DeNobiliSijua` class.
+
+```python
+from DNS import DeNobiliSijua
+```
